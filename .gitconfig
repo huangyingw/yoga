@@ -1,2 +1,7 @@
 [commit]
     message = n
+[remote "origin"]
+    url = git@github.com:huangyingw/yoga.git
+    fetch = +refs/heads/*:refs/remotes/origin/*
+[push]
+    remote = origin
