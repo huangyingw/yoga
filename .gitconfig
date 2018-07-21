@@ -5,3 +5,6 @@
     fetch = +refs/heads/*:refs/remotes/origin/*
 [push]
     remote = origin
+[branch "master"]
+    remote = origin
+    merge = refs/heads/master
