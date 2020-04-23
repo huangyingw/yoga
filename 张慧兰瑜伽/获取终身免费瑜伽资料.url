@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://list.qq.com/cgi-bin/qf_invite?id=911d508318efd59ea60396a9abae535b22f012cfd5908142
+[InternetShortcut]
+URL=http://list.qq.com/cgi-bin/qf_invite?id=911d508318efd59ea60396a9abae535b22f012cfd5908142
+IDList=
+IconFile=http://list.qq.com/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
