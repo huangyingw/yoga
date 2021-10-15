@@ -7,3 +7,5 @@ file '../outputs/手指强壮功.avi'
 file '../outputs/完全双角功.avi'
 file '../outputs/山功.avi'
 file '../outputs/肺部扩展功.avi'
+"./outputs/手指强壮功.avi"
+"./outputs/展臂功.avi"
