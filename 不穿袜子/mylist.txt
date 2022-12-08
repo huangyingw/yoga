@@ -1,0 +1,3 @@
+file '../outputs/不穿袜子1.avi'
+file '../outputs/不穿袜子2.avi'
+file '../outputs/不穿袜子3.avi'
