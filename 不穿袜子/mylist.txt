@@ -1,3 +1,2 @@
-file '../outputs/不穿袜子1.avi'
-file '../outputs/不穿袜子2.avi'
-file '../outputs/不穿袜子3.avi'
+file '../outputs/桥功第二式.avi'
+file '../outputs/全骆驼功.avi'
