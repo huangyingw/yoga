@@ -8,3 +8,6 @@
 [branch "master"]
     remote = origin
     merge = refs/heads/master
+[gsync]
+    remote = origin
+    target = 41c667003685cf32c270fd9a8f3702b772e79599
