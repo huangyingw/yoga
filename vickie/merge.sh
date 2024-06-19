@@ -1,0 +1,6 @@
+#!/bin/zsh
+SCRIPT=$(realpath "$0")
+SCRIPTPATH=$(dirname "$SCRIPT")
+cd "$SCRIPTPATH"
+
+~/loadrc/ffmpegrc/concat.sh mylist.txt 手臂功.avi
