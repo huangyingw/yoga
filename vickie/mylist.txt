@@ -24,7 +24,6 @@ file '../outputs/肺部扩展功.avi'
 "./outputs/增延三角功.avi"
 "./outputs/双腿背部伸展功.avi"
 "./outputs/为史努功.avi"
-"./outputs/俯卧放鬆功.avi"
 "./outputs/山功.avi"
 "./outputs/船功.avi"
 "./outputs/战士功第二式.avi"
@@ -37,3 +36,4 @@ file '../outputs/肺部扩展功.avi'
 "./outputs/交叉腿功.avi"
 "./outputs/全箭功.avi"
 "./outputs/婴儿功.avi"
+"./outputs/俯卧放鬆功.avi"
