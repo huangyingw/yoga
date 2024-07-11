@@ -1,7 +1,7 @@
+file '../outputs/展臂功.avi'
 file '../outputs/肩放鬆功.avi'
 file '../outputs/开罐头刀和炮弹式.avi'
 file '../outputs/颈功.avi'
-file '../outputs/展臂功.avi'
 file '../outputs/腹部呼吸功.avi'
 file '../outputs/下躯摇摆功.avi'
 file '../outputs/摩天功.avi'
