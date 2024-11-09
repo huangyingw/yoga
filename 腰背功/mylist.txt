@@ -1,0 +1,5 @@
+file '../outputs/举臂拱背功.avi'
+file '../outputs/眼镜蛇功.avi'
+file '../outputs/初级犁功.avi'
+file '../outputs/完全双角功.avi'
+file '../outputs/全骆驼功.avi'
